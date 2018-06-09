@@ -1,0 +1,4 @@
+# Launcher
+
+## Licence
+MIT
